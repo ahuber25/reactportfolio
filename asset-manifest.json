@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahuber25/reactportfolio/static/css/main.3c86e7be.css",
+    "main.js": "/ahuber25/reactportfolio/static/js/main.c855a190.js",
+    "static/js/787.5a039a9c.chunk.js": "/ahuber25/reactportfolio/static/js/787.5a039a9c.chunk.js",
+    "static/media/title-image.jpg": "/ahuber25/reactportfolio/static/media/title-image.87eb9fd9bd5ccef1b335.jpg",
+    "index.html": "/ahuber25/reactportfolio/index.html",
+    "main.3c86e7be.css.map": "/ahuber25/reactportfolio/static/css/main.3c86e7be.css.map",
+    "main.c855a190.js.map": "/ahuber25/reactportfolio/static/js/main.c855a190.js.map",
+    "787.5a039a9c.chunk.js.map": "/ahuber25/reactportfolio/static/js/787.5a039a9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c86e7be.css",
+    "static/js/main.c855a190.js"
+  ]
+}
