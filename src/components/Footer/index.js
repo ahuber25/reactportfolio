@@ -4,7 +4,7 @@ function Footer() {
 
     return (
 
-        <footer>LinkedIn || Github</footer>
+        <footer><a href="https://www.linkedin.com/in/acadia-huber-a988b715a/">LinkedIn</a> || <a href="https://github.com/ahuber25">Github</a></footer>
         
     )
 
