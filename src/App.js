@@ -5,6 +5,10 @@ import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
+import {
+  Routes,
+  Route
+} from "react-router-dom";
 
 function App() {
 
@@ -13,9 +17,11 @@ function App() {
       <main>
         <Nav></Nav>
         <Header></Header>
-        <About></About>
-        <Portfolio></Portfolio>
-        <Contact></Contact>
+        <Routes>
+          <Route exact path="/" element={<About/>}/>
+          <Route exact path="/projects" element={<Portfolio/>}/>
+          <Route exact path="/contact" element={<Contact/>}/>
+        </Routes>
         <Footer></Footer>
       </main>
     </div>

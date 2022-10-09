@@ -39,11 +39,11 @@ function Contact() {
 
     return (
 
-        <section class="items" id="contact">
-        <div class="section-titles">
+        <section className="items" id="contact">
+        <div className="section-titles">
             <h3>Contact Me</h3>
         </div>
-        <div class="find-me">
+        <div className="find-me">
         <form id="contact-form" onSubmit={handleSubmit}>
         <div>
             <label htmlFor="name">Name:</label>

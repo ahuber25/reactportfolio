@@ -4,8 +4,8 @@ function Header() {
 
     return (
 
-        <section class="title-image">
-        <div class="subtitle">
+        <section className="title-image">
+        <div className="subtitle">
             <h2>When life gives you code,<br/>debug it.</h2>
         </div>
     </section>
