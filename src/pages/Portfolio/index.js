@@ -26,8 +26,8 @@ function Portfolio() {
                 <p>Second D&D Creator</p></a>
             </div>
             <div className="image-2">
-                <a href="/index.html" target="_blank" rel="noopener noreferrer"><img src="../images/horiseon.jpg" alt="horiseon project"/>
-                <p>More to come.</p></a>
+                <a href="https://travel-mategr1.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="../images/sydney.jpg" alt="travel mate"/>
+                <p>Travel Mate</p></a>
             </div>
         </div>
     </section>
